@@ -1,0 +1,39 @@
+/*
+1st step---
+npm create vite@latest
+
+2nd step---
+Project name
+
+3rd step---
+React
+
+4th step---
+javascript
+
+5th step---
+cd proj. name
+
+6th step---
+npm install
+
+7th step---
+npm run dev
+
+*/
+
+/*
+Install Tailwind CSS with Vite
+
+npm install -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
+
+tailwind.config.js 
+Replace content with   
+
+
+
+
+
+*/
